@@ -1,5 +1,5 @@
 <h1 style = "text-align: center">
-한국항공대 산학프로젝트 I : 함께 푸는 알고리즘, 코맷
+산학프로젝트 I : 함께 푸는 알고리즘, 코맷
 </h1>
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
